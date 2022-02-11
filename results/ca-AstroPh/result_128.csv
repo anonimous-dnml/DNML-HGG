@@ -1,0 +1,2 @@
+model_n_dims,DNML_codelength,AIC_naive,BIC_naive,basescore_y_and_z,basescore_y_given_z,AUC
+128,,14347695.075970527,34756072.80712162,17648421.575970527,11944878.075970527,0.8317602212255424
