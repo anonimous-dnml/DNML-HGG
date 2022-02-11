@@ -30,7 +30,7 @@ The implementation assumes the availability of CUDA device.
 
 3. run `MinGE.py`
 
-### Metrics.py
+### Metrics
 
 1. Run `calc_metric.py`. For artificial dataset, selected dimensionality and benefit are shown in command line. For real-world datasets , selected dimensionality and AUC are shown in command line. At the same time, the figures of each criterion are generated in `results`.
 
