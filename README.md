@@ -9,6 +9,7 @@ This repository contains the implementation code of DNML-HGG.
 - Memory: 512GB
 - GPU: GeForce RTX 3090
 - python: 3.6.9. with Anaconda.
+
 The implementation assumes the availability of CUDA device.
 
 ## 3. How to Run
